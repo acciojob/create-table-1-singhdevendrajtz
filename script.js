@@ -4,8 +4,8 @@ function insert_Row() {
 	const row3=table_val.insertRow(0);
 	const cell1=row3.insertCell(0);
 	const cell2=row3.insertCell(1);
-	cell1.textContent="New Cell 1";
-	cell2.textContent="New Cell 2";
+	cell1.textContent="New Cell1";
+	cell2.textContent="New Cell2";
 	
 	
 
